@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c1121f&height=230&section=header&text=Giselle%20Batista&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descColor=f2f2f2&descSize=16&descAlignY=60&animation=fadeIn" alt="Banner Giselle Batista" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c1121f&height=230&section=header&text=Giselle%20Batista&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Estudante%20de%20ADS&descColor=f2f2f2&descSize=16&descAlignY=60&animation=fadeIn" alt="Banner Giselle Batista" width="100%"/>
 
 <!-- ===================== TYPING ===================== -->
 <a href="https://github.com/gibatista-cyber">
