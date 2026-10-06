@@ -120,7 +120,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <br/>
 
 <!-- ===================== REDES SOCIAIS ===================== -->
-## <img src="https://img.shields.io/badge/-vamos%20conversar-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-VAMOS%20CONVERSAR-e11d48?style=flat-square" height="20"/>
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <!-- ===================== RODAPÉ ===================== -->
 <div align="center">
 
-<sub>código, café e um pouquinho de vermelho 🖤</sub>
+<sub>código, energético e um pouquinho de caos 🖤</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:0d0d0d&height=110&section=footer" alt="Rodapé" width="100%"/>
 
