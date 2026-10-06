@@ -103,22 +103,6 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=gibatista-cyber&background=0d0d0d&border=2a2a2a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&currStreakLabel=e11d48&sideNums=ffffff&sideLabels=d4d4d4&dates=8a8a8a&stroke=2a2a2a" alt="GitHub Streak" />
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gibatista-cyber&bg_color=0d0d0d&color=e11d48&line=e11d48&point=ffffff&area=true&area_color=e11d48&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== TROFÉUS ===================== -->
-## <img src="https://img.shields.io/badge/-trof%C3%A9us-e11d48?style=flat-square" height="20"/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gibatista-cyber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
 </div>
 
 <br/>
