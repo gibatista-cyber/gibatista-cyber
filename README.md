@@ -1,251 +1,164 @@
+<!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=INICIALIZANDO+SISTEMA...;ACESSO+CONCEDIDO+%7C+GISELLE+BATISTA;CYBERSEGURAN%C3%87A+%7C+DESENVOLVIMENTO;BEM-VINDO+AO+MEU+GITHUB" alt="Animação de digitação" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c1121f&height=230&section=header&text=Giselle%20Batista&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descColor=f2f2f2&descSize=16&descAlignY=60&animation=fadeIn" alt="Banner Giselle Batista" width="100%"/>
 
-<br>
+<!-- ===================== TYPING ===================== -->
+<a href="https://github.com/gibatista-cyber">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=E11D48&center=true&vCenter=true&width=520&height=40&lines=Estudante+de+ADS;Aprendendo+Python+e+Web;Construindo+um+projeto+de+cada+vez" alt="Typing animation" />
+</a>
 
-<img src="https://img.shields.io/badge/CYBERSEGURAN%C3%87A-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/FULL%20STACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" />
+<br/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gibatista-cyber&style=flat-square&color=00FF9C&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" />
+<img src="https://img.shields.io/badge/ADS-estudante-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=e11d48" alt="ADS"/>
+<img src="https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=7a1020" alt="Status"/>
 
 </div>
 
----
+<br/>
 
-## > Sobre Mim
+<!-- ===================== SOBRE MIM ===================== -->
+## <img src="https://img.shields.io/badge/-sobre%20mim-e11d48?style=flat-square" height="20"/>
 
-Hello World, i'm Giselle...
+Oi, eu sou a **Giselle**.
 
-Sou **Técnica em Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
+Estudo **Análise e Desenvolvimento de Sistemas** e estou aprendendo a programar na prática: escrevendo código, errando, corrigindo e tentando de novo.
 
-Estou construindo minha carreira com foco em **Cybersecurity, Programação e Tecnologia**.
+Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai crescendo junto com isso. Os projetos que eu for criando vão aparecer aqui.
 
-Atualmente, estou estudando e desenvolvendo minhas habilidades em:
+<br/>
 
-* Cybersecurity
-* Python
-* Desenvolvimento Full Stack
-* Tecnologias Web
-* Tecnologia da Informação
+<!-- ===================== TECNOLOGIAS ===================== -->
+## <img src="https://img.shields.io/badge/-tecnologias-e11d48?style=flat-square" height="20"/>
 
-Também possuo formação em **Google IT Support** e estou continuamente expandindo meus conhecimentos técnicos por meio de estudos práticos e desenvolvimento pessoal.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&theme=dark" alt="Tecnologias" />
 
-## > Foco em Cybersecurity
+<sub>🔴 em estudo</sub>
 
-**Fundamentos de programação**
+</div>
 
-**Python**
+<br/>
 
-**Tecnologias Web**
+<!-- ===================== PROJETOS ===================== -->
+## <img src="https://img.shields.io/badge/-projetos-e11d48?style=flat-square" height="20"/>
 
-**Desenvolvimento Full Stack**
+<!--
+  COMO PREENCHER FUTURAMENTE:
+  1. Troque "Nome do projeto" pelo nome real.
+  2. Troque "Descrição curta..." por 1 ou 2 linhas sobre o projeto.
+  3. Troque "SEU-REPOSITORIO" pelo nome do repositório no GitHub.
+  4. Ajuste as tecnologias no badge, se quiser.
+-->
 
-**Cybersecurity**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Projeto 01</h3>
+      <p>Descrição curta do projeto. <em>(em breve)</em></p>
+      <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=e11d48" alt="Tecnologia"/>
+      <br/><br/>
+      <a href="https://github.com/gibatista-cyber/SEU-REPOSITORIO"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 Projeto 02</h3>
+      <p>Descrição curta do projeto. <em>(em breve)</em></p>
+      <img src="https://img.shields.io/badge/HTML%20%7C%20CSS-0d0d0d?style=flat-square&logo=html5&logoColor=e11d48" alt="Tecnologia"/>
+      <br/><br/>
+      <a href="https://github.com/gibatista-cyber/SEU-REPOSITORIO"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Projeto 03</h3>
+      <p>Descrição curta do projeto. <em>(em breve)</em></p>
+      <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=e11d48" alt="Tecnologia"/>
+      <br/><br/>
+      <a href="https://github.com/gibatista-cyber/SEU-REPOSITORIO"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 Projeto 04</h3>
+      <p>Descrição curta do projeto. <em>(em breve)</em></p>
+      <img src="https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=mysql&logoColor=e11d48" alt="Tecnologia"/>
+      <br/><br/>
+      <a href="https://github.com/gibatista-cyber/SEU-REPOSITORIO"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
+    </td>
+  </tr>
+</table>
 
-**Redes e Infraestrutura**
+<br/>
 
-**Fundamentos de Segurança**
+<!-- ===================== ESTATÍSTICAS ===================== -->
+## <img src="https://img.shields.io/badge/-estat%C3%ADsticas-e11d48?style=flat-square" height="20"/>
 
-Meu foco atual é construir uma base técnica sólida em **ADS, TI e cybersecurity**, enquanto continuo expandindo meus conhecimentos por meio de aprendizado prático.
+<div align="center">
 
----
+<!-- GitHub Stats + Top Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gibatista-cyber&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=e11d48&text_color=d4d4d4&icon_color=e11d48&border_color=2a2a2a&ring_color=e11d48&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibatista-cyber&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=e11d48&text_color=d4d4d4&border_color=2a2a2a&langs_count=6" alt="Top Languages" />
 
-## > Stack Tecnológica
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=gibatista-cyber&background=0d0d0d&border=2a2a2a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&currStreakLabel=e11d48&sideNums=ffffff&sideLabels=d4d4d4&dates=8a8a8a&stroke=2a2a2a" alt="GitHub Streak" />
 
----
+<br/><br/>
 
-## > Ferramentas
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gibatista-cyber&bg_color=0d0d0d&color=e11d48&line=e11d48&point=ffffff&area=true&area_color=e11d48&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</div>
 
----
+<br/>
 
-## > Objetivos Atuais
+<!-- ===================== TROFÉUS ===================== -->
+## <img src="https://img.shields.io/badge/-trof%C3%A9us-e11d48?style=flat-square" height="20"/>
 
-**01 — Aperfeiçoar meus conhecimentos em Python**
+<div align="center">
 
-**02 — Aprender Desenvolvimento Full Stack**
+<img src="https://github-profile-trophy.vercel.app/?username=gibatista-cyber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
-**03 — Fortalecer meus fundamentos em Cybersecurity**
+</div>
 
-**04 — Desenvolver projetos práticos**
+<br/>
 
-**05 — Construir um portfólio sólido em Cybersecurity**
+<!-- ===================== SNAKE ===================== -->
+## <img src="https://img.shields.io/badge/-contribui%C3%A7%C3%B5es-e11d48?style=flat-square" height="20"/>
 
-**06 — Continuar aprendendo e evoluindo**
+<div align="center">
 
-**Status Atual:** Aprendendo e Construindo
+<!-- Requer o workflow snake.yml (instruções abaixo da resposta) -->
+<img src="https://raw.githubusercontent.com/gibatista-cyber/gibatista-cyber/output/github-snake-dark.svg" alt="Snake Contribution" width="100%"/>
 
-**Foco Principal:** Cybersecurity
+</div>
 
----
+<br/>
 
-## > Conecte-se Comigo
+<!-- ===================== REDES SOCIAIS ===================== -->
+## <img src="https://img.shields.io/badge/-vamos%20conversar-e11d48?style=flat-square" height="20"/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/giselle-batista-2b6806292">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e11d48" alt="LinkedIn"/>
 </a>
-
-<a href="mailto:b7gigih@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+<a href="https://instagram.com/gibatista.dev">
+  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=e11d48" alt="Instagram"/>
 </a>
-
-<a href="https://instagram.com/eubgiselle">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**[ SISTEMA ONLINE ]**
-
-**GISELLE BATISTA**
-
-**CYBERSECURITY • DESENVOLVIMENTO • TECNOLOGIA**
-
-*"Tenha a mesma confiança que um homem branco medíocre."*
-
-<img src="https://img.shields.io/badge/CONSTRU%C3%8DDO_COM-FOCO_&_CURIOSIDADE-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
-
-</div>
-
----
-
-# English Version
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED+%7C+GISELLE+BATISTA;CYBERSECURITY+%7C+DEVELOPMENT;WELCOME+TO+MY+GITHUB" alt="Typing Animation" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/FULL%20STACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gibatista-cyber&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## > About Me
-
-Hello World, i'm Giselle...
-
-I'm a **Computer Technician** and currently studying **Systems Analysis and Development**.
-
-I'm building my career with a focus on **Cybersecurity, Programming and Technology**.
-
-Currently studying and developing my skills in:
-
-* Cybersecurity
-* Python
-* Full Stack Development
-* Web Technologies
-* Information Technology
-
-I also have experience with **Google IT Support** and I'm continuously expanding my technical knowledge through hands-on learning and personal development.
-
----
-
-## > Cybersecurity Focus
-
-**Programming fundamentals**
-
-**Python**
-
-**Web technologies**
-
-**Full Stack Development**
-
-**Cybersecurity**
-
-**Networking & Infrastructure**
-
-**Security fundamentals**
-
-My current focus is building a strong technical foundation in **ADS, IT and cybersecurity**, while continuously expanding my knowledge through practical learning.
-
----
-
-## > Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
-
----
-
-## > Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
----
-
-## > Current Objectives
-
-**01 — Improve Python**
-
-**02 — Learn Full Stack Development**
-
-**03 — Strengthen Cybersecurity fundamentals**
-
-**04 — Develop practical projects**
-
-**05 — Build a strong Cybersecurity portfolio**
-
-**06 — Continuously learn and evolve**
-
-**Current Status:** Learning & Building
-
-**Main Focus:** Cybersecurity
-
----
-
-## > Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/giselle-batista-2b6806292">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
-</a>
-
-<a href="mailto:b7gigih@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
-</a>
-
-<a href="https://instagram.com/eubgiselle">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C" />
+<a href="https://github.com/gibatista-cyber">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=e11d48" alt="GitHub"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
+<!-- ===================== RODAPÉ ===================== -->
 <div align="center">
 
-**[ SYSTEM ONLINE ]**
+<sub>código, café e um pouquinho de vermelho 🖤</sub>
 
-**GISELLE BATISTA**
-
-**CYBERSECURITY • DEVELOPMENT • TECHNOLOGY**
-
-*"Have the same confidence as a mediocre white man."*
-
-<img src="https://img.shields.io/badge/BUILT_WITH-FOCUS_&_CURIOSITY-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:0d0d0d&height=110&section=footer" alt="Rodapé" width="100%"/>
 
 </div>
