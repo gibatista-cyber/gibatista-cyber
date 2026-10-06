@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-## <img src="https://img.shields.io/badge/-sobre%20mim-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-SOBRE%20MIM-e11d48?style=flat-square" height="20"/>
 
 Hello World, im a **Giselle**.
 
@@ -29,7 +29,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <br/>
 
 <!-- ===================== TECNOLOGIAS ===================== -->
-## <img src="https://img.shields.io/badge/-tecnologias-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-TECNOLOGIAS-e11d48?style=flat-square" height="20"/>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <br/>
 
 <!-- ===================== PROJETOS ===================== -->
-## <img src="https://img.shields.io/badge/-projetos-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-PROJETOS-e11d48?style=flat-square" height="20"/>
 
 <!--
   COMO PREENCHER FUTURAMENTE:
@@ -90,7 +90,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <br/>
 
 <!-- ===================== ESTATÍSTICAS ===================== -->
-## <img src="https://img.shields.io/badge/-estat%C3%ADsticas-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-ESTAT%C3%8DSTICAS-e11d48?style=flat-square" height="20"/>
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 <br/>
 
 <!-- ===================== SNAKE ===================== -->
-## <img src="https://img.shields.io/badge/-contribui%C3%A7%C3%B5es-e11d48?style=flat-square" height="20"/>
+## <img src="https://img.shields.io/badge/-CONTRIBUI%C3%87%C3%95ES-e11d48?style=flat-square" height="20"/>
 
 <div align="center">
 
