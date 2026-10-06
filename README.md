@@ -35,7 +35,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&theme=dark" alt="Tecnologias" />
 
-<sub>🔴 em estudo</sub>
+<sub>🔴 EM ESTUDO</sub>
 
 </div>
 
