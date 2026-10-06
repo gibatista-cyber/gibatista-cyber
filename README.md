@@ -20,7 +20,7 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## <img src="https://img.shields.io/badge/-sobre%20mim-e11d48?style=flat-square" height="20"/>
 
-Oi, eu sou a **Giselle**.
+Hello World, im a **Giselle**.
 
 Estudo **Análise e Desenvolvimento de Sistemas** e estou aprendendo a programar na prática: escrevendo código, errando, corrigindo e tentando de novo.
 
