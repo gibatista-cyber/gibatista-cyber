@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <a href="https://github.com/gibatista-cyber">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=E11D48&center=true&vCenter=true&width=520&height=40&lines=Estudante+de+ADS;Aprendendo+Python+e+Web;Construindo+um+projeto+de+cada+vez" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=E11D48&center=true&vCenter=true&width=520&height=40&lines=DEV+EM+DESENVOLVIMENTO;Aprendendo+Python+e+Web;Construindo+um+projeto+de+cada+vez" alt="Typing animation" />
 </a>
 
 <br/>
