@@ -56,7 +56,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
   <tr>
     <td width="50%" valign="top">
       <h3>💗 Polyglot Heart</h3>
-      <p>Experiência web interativa e mobile-first desenvolvida com HTML, CSS e JavaScript puro, sem frameworks. A página abre com uma intro em estilo terminal e, ao decifrar a mensagem, "eu te amo" aparece em 24 idiomas, formando um coração animado com balanço suave e pulsação. <em>(em breve)</em></p>
+      <p>Experiência web interativa e mobile-first desenvolvida com HTML, CSS e JavaScript puro, sem frameworks. A página abre com uma intro em estilo terminal e, ao decifrar a mensagem, "eu te amo" aparece em 24 idiomas, formando um coração animado com balanço suave e pulsação. </p>
       <img src="https://img.shields.io/badge/HTML%20%7C%20CSS-0d0d0d?style=flat-square&logo=html5&logoColor=e11d48" alt="Tecnologia"/>
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=e11d48" alt="Tecnologia"/>
       <br/><br/>
