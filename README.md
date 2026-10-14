@@ -60,7 +60,7 @@ Ainda estou estudando **Python, HTML, CSS, JavaScript e SQL**, e este perfil vai
       <img src="https://img.shields.io/badge/HTML%20%7C%20CSS-0d0d0d?style=flat-square&logo=html5&logoColor=e11d48" alt="Tecnologia"/>
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=e11d48" alt="Tecnologia"/>
       <br/><br/>
-      <a href="https://gibatista-cyber.github.io/aniversario-emi/"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
+      <a href="https://gibatista-cyber.github.io/polyglot-heart/"><img src="https://img.shields.io/badge/ver%20projeto-e11d48?style=flat-square&labelColor=0d0d0d" alt="Ver projeto"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📁 Projeto 02</h3>
